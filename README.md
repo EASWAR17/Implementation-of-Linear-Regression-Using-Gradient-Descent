@@ -36,7 +36,7 @@ Program to implement the linear regression using gradient descent.
 Developed by: EASWAR J 
 RegisterNumber: 212221230024
 */
-```
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -70,7 +70,6 @@ plt.title("Study hours vs Scores")
 plt.plot(loss)
 plt.xlabel("iteration")
 plt.ylabel("loss")
-
 ```
 
 ## Output:

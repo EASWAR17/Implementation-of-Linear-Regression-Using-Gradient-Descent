@@ -74,7 +74,7 @@ plt.ylabel("loss")
 
 ## Output:
 
-![linear regression using gradient descent](C:\Users\![s5](https://user-images.githubusercontent.com/94154683/161201482-76d89f67-652e-41e4-96c7-a360edc4acd2.PNG)
+![s5](https://user-images.githubusercontent.com/94154683/161201482-76d89f67-652e-41e4-96c7-a360edc4acd2.PNG)
 student\Pictures\SS1.PNG)
 
 ![SS1](https://user-images.githubusercontent.com/94154683/161201511-655c7fa4-ce3f-44a3-99b6-f5fe31008a0f.PNG)

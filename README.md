@@ -8,7 +8,7 @@ To write a program to implement the linear regression using gradient descent.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. 
+1. ###STEP1:
 2. 
 3. 
 4. 
